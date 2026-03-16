@@ -1,4 +1,4 @@
-# Projeto-Vr-Va-Henning
+# Projeto-Vr-Henning
 # 🎮🤖
 
 0000 é um jogo de perguntas e respostas inspirado em plataformas como **Kahoot** e **Perguntados**, com a diferença de que **todas as perguntas são geradas automaticamente por Inteligência Artificial**.
@@ -7,7 +7,7 @@ O objetivo do projeto é explorar o uso de IA para criar experiências de aprend
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um trabalho acadêmico na disciplina de **Realidade Virtual e Realidade Aumentada (VR/AR)**.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico no tema de **Realidade Virtual**.
 
 O jogo gera perguntas automaticamente utilizando inteligência artificial, permitindo criar quizzes infinitos sobre diferentes temas.
 
